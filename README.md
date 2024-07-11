@@ -1,2 +1,5 @@
 # HRI_ICSR24
-Suplementary material
+Supplementary material
+
+**TO-DO:**
+- Add list of all the supplementary materials
