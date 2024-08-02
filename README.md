@@ -12,7 +12,13 @@ This repository hosts the supplementary material for the paper titled "The Impac
 - CountMeasDesign.png: Counterbalanced measures design followed in our study.
 - ThematicAnalysis.png: Graphic representation of themes identified through thematic analysis of participants' post-game interviews.
 
-
+**Soundfiles directory:**
+- R1_Q1_introduction_filler.mp3: R1 (with fillers) robot's answer to the first question.
+- R1_Q2_purpose_filler.mp3: R1 (with fillers) robot's answer to the second question.
+- R1_Q3_choose_filler.mp3: R1 (with fillers) robot's answer to the third question.
+- R2_Q1_introduction_no_filler.mp3: R2 (without fillers) robot's answer to the first question.
+- R2_Q2_purpose_no_filler.mp3: R2 (without fillers) robot's answer to the second question.
+- R2_Q3_choose_no_filler.mp3: R2 (without fillers) robot's answer to the third question.
 
 
 
